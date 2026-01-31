@@ -34,3 +34,5 @@ This project strengthened my skills in:
 ✔ Analytical Thinking
 ✔ Real-world Financial Insights
 ✔ Data Visualization Storytelling
+
+📊 [Watch this!](Screen Recording 2025-11-11 212041.mp4)
